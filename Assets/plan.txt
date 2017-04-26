@@ -1,0 +1,17 @@
+Minimum viable product(MVP)	
+	Make the shooting of ball more fun/change arc
+	Add player 2 specific controls for shooting
+	Be able to die / respawn / set spawn points
+	Better level design
+	Figure out camera
+	Make King of the Hill with base UI
+	Add music 
+	Add sound effects
+	Fire range indicator
+	
+After everything else
+	Better UI
+	Make versus
+	Make ballista
+	Make code to switch to ballista
+	Customize tank code/make code for ballista
