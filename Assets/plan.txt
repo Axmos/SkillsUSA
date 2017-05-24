@@ -1,13 +1,13 @@
 Minimum viable product(MVP)	
-	Make the shooting of ball more fun/change arc
-	Add player 2 specific controls for shooting
-	Be able to die / respawn / set spawn points
-	Better level design
-	Figure out camera
-	Make King of the Hill with base UI
-	Add music 
-	Add sound effects
-	Fire range indicator
+	Make the shooting of ball more fun/change arc------kinda
+	Add player 2 specific controls for shooting -------did
+	Be able to die / respawn / set spawn points--------did
+	Better level design--------------------------------no
+	Figure out camera----------------------------------did
+	Make King of the Hill with base UI-----------------did
+	Add music -----------------------------------------did
+	Add sound effects----------------------------------kinda
+	Fire range indicator-------------------------------kinda
 	
 After everything else
 	Better UI
